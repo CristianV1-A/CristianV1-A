@@ -1,6 +1,6 @@
 # Cristian Vitor
 ## Sobre mim
-Sou estudante de programação com foco atual no desenvolvimento Front-End, buscando constantemente aprimorar minhas habilidades em tecnologias como HTML, CSS, JavaScript e frameworks modernos como React.
+Sou estudante de programação com foco atual no desenvolvimento Front-End, buscando constantemente aprimorar minhas habilidades em tecnologias como HTML, CSS, JavaScript e frameworks como React.
 ## Minhas redes
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristianV1-A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-vitor1/)
