@@ -15,8 +15,3 @@ Sou estudante de programação com foco atual no desenvolvimento Front-End, busc
 
 ## Linguagens mais ultilizadas por mim
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianV1-A&layout=compact&theme=transparent&bg_color=252529&border_color=F7F7F7DC&show_icons=true&icon_color=F7F7F7DC&title_color=39BFEBF&text_color=FFF)
-
-
-## Meus Status no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianV1-A&theme=transparent&bg_color=252529&border_color=F7F7F7DC&show_icons=true&icon_color=F7F7F7DC&title_color=39BFEBF&text_color=FFF)
