@@ -1,6 +1,6 @@
 # Cristian Vitor
 ## Sobre mim
-Sou estudante de programação com foco atual no desenvolvimento Front-End, buscando constantemente aprimorar minhas habilidades em tecnologias como HTML, CSS, JavaScript e frameworks como React.
+Desenvolvedor front-end jr. formado em Análise e Desenvolvimento de Sistemas e pós-graduando em Engenharia de Software.
 ## Minhas redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-vitor1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_crislxs/)
